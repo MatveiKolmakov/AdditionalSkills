@@ -8,4 +8,4 @@ Additional practical examples demonstrating skills relevant to manual QA beyond 
 
 ## Postman Collection
 
-[postman-collection.json](./postman-collection.json) — API testing examples with built-in assertions, tested against [API name].
+[postman-collection.json](./postman-collection.json) — API testing examples 
